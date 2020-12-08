@@ -3,8 +3,8 @@ import json
 import requests
 from flask import Flask, request
 
-BOT_TOKEN = '[Bot Token]'
-CHANNEL_ID = '[Channel ID]'
+BOT_TOKEN = '7wzyrjry1pdqzkwtq75ez6456e'
+CHANNEL_ID = 'bbzaonbx4fbyudpyaw7ebszo8c'
 MM_API_ADDRESS = 'http://localhost:8065/api/v4/posts'
 
 app = Flask(__name__)
